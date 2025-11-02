@@ -67,3 +67,7 @@ Visit: http://localhost:3000
 Sign in using Google
 
 Explore the dashboard and weather details
+
+Deployed Link:
+
+https://weather-dashboard-tushar.vercel.app
